@@ -13,4 +13,4 @@ It encrypts and obfuscates PHP opcode bytecode, employing control-flow obfuscati
 It compiles PHP code directly into binary instructions, producing native executables or dynamic libraries for platforms such as Windows, Linux, and macOS.
 
 
-> Documents: [https://doc.swoole.com/@compiler/compiler.html](https://doc.swoole.com/@aot-compiler/)
+> Documents: [https://doc.swoole.com/@aot-compiler/](https://doc.swoole.com/@aot-compiler/)
